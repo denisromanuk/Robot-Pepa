@@ -1,0 +1,25 @@
+Z:\INF - Informatika\2. ročník (2021)\robot pepa\robot pepa\obj\Debug\robot pepa.csproj.AssemblyReference.cache
+Z:\INF - Informatika\2. ročník (2021)\robot pepa\robot pepa\obj\Debug\robot pepa.csproj.SuggestedBindingRedirects.cache
+Z:\INF - Informatika\2. ročník (2021)\robot pepa\robot pepa\obj\Debug\hlavnístránka.g.cs
+Z:\INF - Informatika\2. ročník (2021)\robot pepa\robot pepa\obj\Debug\MainWindow.g.cs
+Z:\INF - Informatika\2. ročník (2021)\robot pepa\robot pepa\obj\Debug\App.g.cs
+Z:\INF - Informatika\2. ročník (2021)\robot pepa\robot pepa\obj\Debug\robot pepa_MarkupCompile.cache
+Z:\INF - Informatika\2. ročník (2021)\robot pepa\robot pepa\obj\Debug\robot pepa_MarkupCompile.lref
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot pepa.csproj.AssemblyReference.cache
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot pepa.csproj.SuggestedBindingRedirects.cache
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\hlavnístránka.g.cs
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\MainWindow.g.cs
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\App.g.cs
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot pepa_MarkupCompile.cache
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot pepa_MarkupCompile.lref
+C:\Users\drden\Desktop\robot pepa\robot pepa\bin\Debug\robot pepa.exe.config
+C:\Users\drden\Desktop\robot pepa\robot pepa\bin\Debug\robot pepa.exe
+C:\Users\drden\Desktop\robot pepa\robot pepa\bin\Debug\robot pepa.pdb
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\hlavnístránka.baml
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\MainWindow.baml
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot pepa.g.resources
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot_pepa.Properties.Resources.resources
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot pepa.csproj.GenerateResource.cache
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot pepa.csproj.CoreCompileInputs.cache
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot pepa.exe
+C:\Users\drden\Desktop\robot pepa\robot pepa\obj\Debug\robot pepa.pdb

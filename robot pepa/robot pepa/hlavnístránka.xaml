@@ -1,0 +1,17 @@
+﻿<Window x:Class="robot_pepa.hlavnístránka"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:robot_pepa"
+        mc:Ignorable="d"
+        Title="Robot Pepa" Height="900" Width="600" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="/náhled.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Button Content="PLAY" x:Name="bt_hrat" HorizontalAlignment="Center" Height="67" Margin="0,687,0,0" VerticalAlignment="Top" Width="452" Background="#FF273F32" Click="hrat" FontSize="40" FontFamily="Segoe UI Symbol" FontWeight="Bold" Foreground="White" BorderBrush="{x:Null}"/>
+        <Button Content="CLOSE" HorizontalAlignment="Center" Height="67" Margin="0,769,0,0" VerticalAlignment="Top" Width="452" Background="#FF273F32" Click="close" FontSize="40" FontFamily="Segoe UI Symbol" FontWeight="Bold" Foreground="White" BorderBrush="{x:Null}"/>
+        <Image Source="/title.png" Margin="74,390,74,208"/>
+    </Grid>
+</Window>
